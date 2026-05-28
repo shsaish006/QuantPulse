@@ -1,5 +1,10 @@
 # QuantPulse: Full-Stack Algorithmic Trading Suite & Quantitative Research Terminal
 
+[![QuantPulse CI](https://github.com/shsaish006/QuantPulse/actions/workflows/ci.yml/badge.svg)](https://github.com/shsaish006/QuantPulse/actions/workflows/ci.yml)
+[![Repository Size](https://img.shields.io/github/repo-size/shsaish006/QuantPulse?color=black&style=flat-square)](https://github.com/shsaish006/QuantPulse)
+[![License](https://img.shields.io/github/license/shsaish006/QuantPulse?color=black&style=flat-square)](https://github.com/shsaish006/QuantPulse/blob/main/LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/shsaish006/QuantPulse?style=social)](https://github.com/shsaish006/QuantPulse)
+
 **Sole Architect & Developer**: Shivam Kumar Singh ([shsaish006](https://github.com/shsaish006))
 
 QuantPulse is a professional-grade quantitative stock analysis terminal. The platform provides equal-volatility risk parity portfolio construction, regularized machine learning price forecasting, dynamic strategy backtesting, and an automated conversational AI copilot. Designed to replace human emotional bias with systematic, rule-based algorithmic decision-making, the system operates as a fully decoupled full-stack architecture.
